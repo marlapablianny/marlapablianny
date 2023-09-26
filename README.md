@@ -4,7 +4,7 @@
 Desenvolvedora Backend, apaixonada por desafios e inovação. Com experiência em Python, JavaScript, TypeScript e bancos de dados como MySQL. Minha jornada inclui o uso de frameworks como Vue.js, Pinia, Adonis.js, Nest.js, e a criação de aplicativos móveis com Expo. Sou entusiasta do Git para um gerenciamento eficiente de código e estou comprometida em impulsionar a excelência na minha jornada de desenvolvimento. Pronta para colaborar e contribuir para projetos empolgantes."
 
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlapablianny&show_icons=true&theme=dracula&count_private=true&prefers=dracula">
+    <img height="180em" src="https://marlapablianny.vercel.app/api?username=marlapablianny&show_icons=true&theme=dracula&count_private=true&prefers=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlapablianny&layout=compact&langs_count=16&theme=dracula">
   </div>
   
